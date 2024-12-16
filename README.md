@@ -43,4 +43,4 @@ The results will be logged in ``output/base2new/logs_base2new.csv``.
 
 ## Acknowledgements
 
-My code is inspired by [CoOp](https://github.com/KaiyangZhou/CoOp), [MaPLe](https://github.com/muzairkhattak/multimodal-prompt-learning) and [DAC](https://github.com/ml-stat-Sustech/CLIP_Calibration). We thank the authors for releasing their code.
+My code is inspired by [CoOp](https://github.com/KaiyangZhou/CoOp), [MaPLe](https://github.com/muzairkhattak/multimodal-prompt-learning) and [DAC](https://github.com/ml-stat-Sustech/CLIP_Calibration). I thank the authors for releasing their code.
